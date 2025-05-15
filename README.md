@@ -36,4 +36,6 @@ Topics Covered: Check https://cmsc320.github.io/
 Contributors:
 * Fardina Alam
 * Gavin Hung
+
+
 Project Status: This textbook is a work in progress. We're actively adding content and improving interactivity with each contribution.
