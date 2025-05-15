@@ -3,7 +3,7 @@
 
 Welcome to the official repository for our free, interactive textbook for CMSC 320: Introduction to Data Science, created especially for Dr. Fardina Alam’s section at the University of Maryland.
 
-Project Goal
+## Project Goal: 
 Our mission is to build a modern, accessible, and engaging textbook for CMSC 320 that goes beyond the traditional static format. This open resource will include:
 
 * Interactive visualizations
@@ -18,10 +18,10 @@ Our mission is to build a modern, accessible, and engaging textbook for CMSC 320
 
 This is a collaborative and evolving effort, aiming to support current and future students by making complex concepts more understandable and engaging.
 
-Who Is It For?
+## Who Is It For?: 
 This resource is designed primarily for students in Dr. Fardina Alam's section of CMSC 320, but is open for use by anyone learning data science and seeking an interactive alternative to traditional textbooks.
 
-Proposed Features:
+## Proposed Features: 
 
 * Visual Learning: Charts, graphs, and widgets to reinforce concepts
 
@@ -31,11 +31,14 @@ Proposed Features:
 
 * Note-Friendly Format: Easy to annotate and revise
 
-Topics Covered: Check https://cmsc320.github.io/ 
+## Topics Covered: 
 
-Contributors:
+Check https://cmsc320.github.io/ 
+
+## Contributors: 
 * Fardina Alam
 * Gavin Hung
 
 
-Project Status: This textbook is a work in progress. We're actively adding content and improving interactivity with each contribution.
+## Project Status: 
+This textbook is a work in progress. We're actively adding content and improving interactivity with each contribution.
