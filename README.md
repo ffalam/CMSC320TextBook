@@ -39,6 +39,45 @@ Check https://cmsc320.github.io/
 * Fardina Alam
 * Gavin Hung
 
-
 ## Project Status: 
 This textbook is a work in progress. We're actively adding content and improving interactivity with each contribution.
+
+## Usage
+
+### Step 1: Download the Jupyter Notebooks
+
+```sh
+chmod +x ./download_notebooks.sh
+./download_notebooks.sh
+```
+
+### Step 2: Building the Jupyter Book
+
+#### Option 1: jupyter-book CLI
+
+```sh
+pip install -U jupyter-book
+jupyter-book build .
+```
+
+#### Option 2: Docker Compose
+
+```sh
+docker compose up
+docker compose down --volumes --rmi local
+```
+
+#### Option 3: Docker
+
+```sh
+docker build -t textbook .
+docker run --rm -v "$(pwd)":/usr/src/app textbook
+
+docker stop textbook
+docker rm textbook
+docker rmi textbook
+```
+
+### Step 3: Open the Jupyter Book
+
+Navigate to `_build/html/index.html`
