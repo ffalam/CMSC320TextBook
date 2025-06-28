@@ -30,14 +30,6 @@ jobs:
         pip install -r requirements.txt
 
     # Download Jupyter Notebooks
-    - name: Make download script executable
-      run: |
-        chmod +x ./download_notebooks.sh
-    - name: Download Notebooks
-      run: |
-        ./download_notebooks.sh
-
-    # (optional) Cache your executed notebooks between runs
     # if you have config:
     # execute:
     #   execute_notebooks: cache
