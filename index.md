@@ -1,3 +1,6 @@
 # CMSC320 Textbook
 
-Welcome
+```{tableofcontents}
+:caption: "Table of Contents"
+:depth: 1
+```

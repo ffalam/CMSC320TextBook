@@ -7,3 +7,4 @@ parts:
   - caption: Chapter 18. Neural Network
     chapters:
     - file: chapter18/Chapter18-Neural_Network
+    - file: chapter18/interactive_activation_functions
