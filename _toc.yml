@@ -8,3 +8,4 @@ parts:
     chapters:
     - file: chapter18/Chapter18-Neural_Network
     - file: chapter18/interactive_activation_functions
+    - file: chapter18/interactive_forward_backward_propagation
