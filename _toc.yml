@@ -6,8 +6,17 @@ root: index
 parts:
   - caption: Chapter 18. Neural Network
     chapters:
-    - file: chapter18/Chapter18-Neural_Network
-    - file: chapter18/linear_regression
+    - file: chapter18/Chapter18_Neural_Network
+    - file: chapter18/Chapter18_0
+    - file: chapter18/Chapter18_1
+    - file: chapter18/Chapter18_2
+    - file: chapter18/Chapter18_3
+    - file: chapter18/Chapter18_4
     - file: chapter18/interactive_activation_functions
+    - file: chapter18/Chapter18_5
+    - file: chapter18/Chapter18_6
+    - file: chapter18/linear_regression
+    - file: chapter18/Chapter18_7
     - file: chapter18/interactive_forward_propagation
     - file: chapter18/interactive_backward_propagation
+    - file: chapter18/Chapter18_8
