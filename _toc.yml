@@ -4,6 +4,19 @@
 format: jb-book
 root: index
 parts:
+  - caption: Chapter 5 - Pandas
+    chapters:
+    - file: chapter5/interactive_pandas
+  - caption: Chapter 6 - SQL
+    chapters:
+    - file: chapter6/interactive_sql
+  - caption: Chapter 7 - Probability and Distributions
+    chapters:
+    - file: chapter7/interactive_distribution
+  - caption: Chapter 17 - Clustering and PCA
+    chapters:
+    - file: chapter17/interactive_k_means
+    - file: chapter17/interactive_pca
   - caption: Chapter 18. Neural Network
     chapters:
     - file: chapter18/Chapter18_0
@@ -14,3 +27,15 @@ parts:
     - file: chapter18/interactive_forward_propagation
     - file: chapter18/interactive_backward_propagation
     - file: chapter18/Chapter18_8
+  - caption: Chapter 19 - Convolutional Neural Network
+    chapters:
+    - file: chapter19/interactive_cnn
+  - caption: Chapter 20 - NLPs
+    chapters:
+    - file: chapter20/interactive_ngram
+    - file: chapter20/interactive_text_preprocessing
+    - file: chapter20/interactive_tf
+  - caption: Chapter 21 - Graph Theory
+    chapters:
+    - file: chapter21/interactive_topology
+

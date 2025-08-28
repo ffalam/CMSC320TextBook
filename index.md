@@ -2,5 +2,5 @@
 
 ```{tableofcontents}
 :caption: "Table of Contents"
-:depth: 1
+:depth: 0
 ```
