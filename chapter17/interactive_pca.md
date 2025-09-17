@@ -9,7 +9,7 @@ This tool shows the gradient value at each node during the backpropagation proce
 - Try to do the gradient calculations by hand and double check your work 
 
 <iframe
-  src="https://marimo.app/l/zwd9iw?show-code=false&embed=true"
+  src="https://marimo.app/l/u4doeq?show-code=false&embed=true"
   width="100%"
   height="800px"
   frameborder="0"

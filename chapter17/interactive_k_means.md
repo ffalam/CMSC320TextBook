@@ -10,7 +10,7 @@ This tool lets you explore how different activation functions (like ReLU, Sigmoi
 - Use this to build intuition about how activation functions behave in neural networks!
 
 <iframe
-  src="https://marimo.app/l/h6i4kp?show-code=false&embed=true"
+  src="https://marimo.app/l/6z8s8y?show-code=false&embed=true"
   width="100%"
   height="800px"
   frameborder="0"

@@ -1,7 +1,7 @@
 # Interactive CNN
 
 <iframe
-  src="https://marimo.app/l/fsf3zk?show-code=false&embed=true"
+  src="https://marimo.app/l/1mfd4s?show-code=false&embed=true"
   width="100%"
   height="800px"
   frameborder="0"

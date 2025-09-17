@@ -1,7 +1,7 @@
-# Interactive Text Preprocessing
+# Interactive SQL
 
 <iframe
-  src="https://marimo.app/l/fsf3zk?show-code=false&embed=true"
+  src="https://marimo.app/l/x6egqz?show-code=false&embed=true"
   width="100%"
   height="800px"
   frameborder="0"

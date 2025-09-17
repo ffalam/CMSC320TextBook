@@ -3,6 +3,8 @@
 
 format: jb-book
 root: index
+defaults:
+  titlesonly: True
 parts:
   - caption: Chapter 5 - Pandas
     chapters:
@@ -30,11 +32,13 @@ parts:
   - caption: Chapter 19 - Convolutional Neural Network
     chapters:
     - file: chapter19/interactive_cnn
+    - file: chapter19/Chapter_19_Convolutional_Neural_Network.ipynb
   - caption: Chapter 20 - NLPs
     chapters:
     - file: chapter20/interactive_ngram
     - file: chapter20/interactive_text_preprocessing
     - file: chapter20/interactive_tf
+    - file: chapter20/Chapter_19_Natural_Language_Processing.ipynb
   - caption: Chapter 21 - Graph Theory
     chapters:
     - file: chapter21/interactive_topology

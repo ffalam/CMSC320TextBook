@@ -44,14 +44,7 @@ This textbook is a work in progress. We're actively adding content and improving
 
 ## Usage
 
-### Step 1: Download the Jupyter Notebooks
-
-```sh
-chmod +x ./download_notebooks.sh
-./download_notebooks.sh
-```
-
-### Step 2: Building the Jupyter Book
+### Step 1: Building the Jupyter Book
 
 #### Option 1: jupyter-book CLI
 
@@ -78,6 +71,6 @@ docker rm textbook
 docker rmi textbook
 ```
 
-### Step 3: Open the Jupyter Book
+### Step 2: Open the Jupyter Book
 
 Navigate to `_build/html/index.html`
