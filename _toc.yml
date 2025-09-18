@@ -8,7 +8,11 @@ defaults:
 parts:
   - caption: Chapter 5 - Pandas
     chapters:
-    - file: chapter5/Chapter_5_Pandas.ipynb
+    - file: chapter5/Chapter_5_0.ipynb
+    - file: chapter5/Chapter_5_1.ipynb
+    - file: chapter5/Chapter_5_2.ipynb
+    - file: chapter5/Chapter_5_3.ipynb
+    - file: chapter5/Chapter_5_4.ipynb
     - file: chapter5/interactive_pandas
   - caption: Chapter 6 - SQL
     chapters:
@@ -16,31 +20,31 @@ parts:
   - caption: Chapter 7 - Probability and Distributions
     chapters:
     - file: chapter7/interactive_distribution
-  - caption: Chapter 17 - Clustering and PCA
-    chapters:
-    - file: chapter17/interactive_k_means
-    - file: chapter17/interactive_pca
-  - caption: Chapter 18. Neural Network
-    chapters:
-    - file: chapter18/Chapter18_0
-    - file: chapter18/Chapter18_4
-    - file: chapter18/interactive_activation_functions
-    - file: chapter18/linear_regression
-    - file: chapter18/Chapter18_7
-    - file: chapter18/interactive_forward_propagation
-    - file: chapter18/interactive_backward_propagation
-    - file: chapter18/Chapter18_8
-  - caption: Chapter 19 - Convolutional Neural Network
-    chapters:
-    - file: chapter19/Chapter_19_Convolutional_Neural_Network.ipynb
-    - file: chapter19/interactive_cnn
-  - caption: Chapter 20 - NLPs
-    chapters:
-    - file: chapter20/Chapter_19_Natural_Language_Processing.ipynb
-    - file: chapter20/interactive_ngram
-    - file: chapter20/interactive_text_preprocessing
-    - file: chapter20/interactive_tf
-  - caption: Chapter 21 - Graph Theory
-    chapters:
-    - file: chapter21/interactive_topology
+  # - caption: Chapter 17 - Clustering and PCA
+  #   chapters:
+  #   - file: chapter17/interactive_k_means
+  #   - file: chapter17/interactive_pca
+  # - caption: Chapter 18. Neural Network
+  #   chapters:
+  #   - file: chapter18/Chapter18_0
+  #   - file: chapter18/Chapter18_4
+  #   - file: chapter18/interactive_activation_functions
+  #   - file: chapter18/linear_regression
+  #   - file: chapter18/Chapter18_7
+  #   - file: chapter18/interactive_forward_propagation
+  #   - file: chapter18/interactive_backward_propagation
+  #   - file: chapter18/Chapter18_8
+  # - caption: Chapter 19 - Convolutional Neural Network
+  #   chapters:
+  #   - file: chapter19/Chapter_19_Convolutional_Neural_Network.ipynb
+  #   - file: chapter19/interactive_cnn
+  # - caption: Chapter 20 - NLPs
+  #   chapters:
+  #   - file: chapter20/Chapter_19_Natural_Language_Processing.ipynb
+  #   - file: chapter20/interactive_ngram
+  #   - file: chapter20/interactive_text_preprocessing
+  #   - file: chapter20/interactive_tf
+  # - caption: Chapter 21 - Graph Theory
+  #   chapters:
+  #   - file: chapter21/interactive_topology
 
