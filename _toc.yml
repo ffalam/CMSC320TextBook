@@ -16,6 +16,7 @@ parts:
     - file: chapter5/interactive_pandas
   - caption: Chapter 6 - SQL
     chapters:
+    - file: chapter6/Chapter_6
     - file: chapter6/interactive_sql
   - caption: Chapter 7 - Probability and Distributions
     chapters:
