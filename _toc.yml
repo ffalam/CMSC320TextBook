@@ -14,11 +14,9 @@ parts:
     - file: chapter5/Chapter_5_3.ipynb
     - file: chapter5/Chapter_5_4.ipynb
     - file: chapter5/Chapter_5_5.ipynb
-    - file: chapter5/Chapter_5_6.ipynb
     - file: chapter5/interactive_pandas
   - caption: Chapter 6 - SQL
     chapters:
-    - file: chapter6/Chapter_6
     - file: chapter6/Chapter_6_0.ipynb
     - file: chapter6/Chapter_6_1.ipynb
     - file: chapter6/Chapter_6_2.ipynb
