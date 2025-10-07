@@ -6,6 +6,9 @@ root: index
 defaults:
   titlesonly: True
 parts:
+  - caption: About the Book
+    chapters:
+    - file: chapter0/Chapter_0.ipynb
   - caption: Chapter 5 - Pandas
     chapters:
     - file: chapter5/Chapter_5_0.ipynb
@@ -26,6 +29,9 @@ parts:
   - caption: Chapter 7 - Probability and Distributions
     chapters:
     - file: chapter7/interactive_distribution
+  - caption: Chapter 12 - Intro to ML 
+    chapters:
+    - file: chapter12/interactive_knn
   # - caption: Chapter 17 - Clustering and PCA
   #   chapters:
   #   - file: chapter17/interactive_k_means
