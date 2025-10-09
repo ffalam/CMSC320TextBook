@@ -31,6 +31,10 @@ parts:
     - file: chapter7/interactive_distribution
   - caption: Chapter 12 - Intro to ML 
     chapters:
+    - file: chapter12/Chapter_12_0.ipynb
+    - file: chapter12/Chapter_12_1.ipynb
+    - file: chapter12/Chapter_12_2.ipynb
+    - file: chapter12/Chapter_12_3.ipynb
     - file: chapter12/interactive_knn
   # - caption: Chapter 17 - Clustering and PCA
   #   chapters:
