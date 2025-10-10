@@ -9,7 +9,7 @@ This tool lets you explore how the K-Nearest Neighbors (KNN) algorithm works by 
 - View statistics including individual distances and the average distance to all k neighbors
 
 <iframe
-  src="https://marimo.app/l/czh13h?show-code=false&embed=true"
+  src="https://marimo.app/l/idrumc?show-code=false&embed=true"
   width="100%"
   height="800px"
   frameborder="0"
