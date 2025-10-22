@@ -36,6 +36,9 @@ parts:
     - file: chapter12/Chapter_12_2.ipynb
     - file: chapter12/Chapter_12_3.ipynb
     - file: chapter12/interactive_knn
+  - caption: Chapter 14 - Decision Tree
+    chapters:
+    - file: chapter14/interactive_entropy.md
   # - caption: Chapter 17 - Clustering and PCA
   #   chapters:
   #   - file: chapter17/interactive_k_means
