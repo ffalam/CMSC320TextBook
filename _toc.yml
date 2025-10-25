@@ -31,13 +31,18 @@ parts:
     - file: chapter7/interactive_distribution
   - caption: Chapter 12 - Intro to ML 
     chapters:
-    - file: chapter12/Chapter_12_0.ipynb
-    - file: chapter12/Chapter_12_1.ipynb
-    - file: chapter12/Chapter_12_2.ipynb
-    - file: chapter12/Chapter_12_3.ipynb
+    - file: chapter12/chapter_12_0.ipynb
+    - file: chapter12/chapter_12_1.ipynb
+    - file: chapter12/chapter_12_2.ipynb
+    - file: chapter12/chapter_12_3.ipynb
     - file: chapter12/interactive_knn
   - caption: Chapter 14 - Decision Tree
     chapters:
+    - file: chapter14/chapter_14_0.ipynb
+    - file: chapter14/chapter_14_1.ipynb
+    - file: chapter14/chapter_14_2.ipynb
+    - file: chapter14/chapter_14_3.ipynb
+    - file: chapter14/chapter_14_4.ipynb
     - file: chapter14/interactive_entropy.md
   # - caption: Chapter 17 - Clustering and PCA
   #   chapters:
