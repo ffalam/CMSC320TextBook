@@ -19,7 +19,7 @@ Decision Trees choose splits that **maximize Information Gain** to build effecti
 3. Create a perfect split where each side has only one color - maximum gain!
 
 <iframe
-  src="https://marimo.app/l/s0k98f?show-code=false&embed=true"
+  src="https://marimo.app/l/onhftz?show-code=false&embed=true"
   width="100%"
   height="800px"
   frameborder="0"
