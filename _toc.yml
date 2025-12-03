@@ -68,7 +68,7 @@ parts:
     - file: chapter20/interactive_ngram
     - file: chapter20/interactive_text_preprocessing
     - file: chapter20/interactive_tf
-  # - caption: Chapter 21 - Graph Theory
-  #   chapters:
-  #   - file: chapter21/interactive_topology
+  - caption: Chapter 21 - Graph Theory
+    chapters:
+    - file: chapter21/interactive_topology
 
