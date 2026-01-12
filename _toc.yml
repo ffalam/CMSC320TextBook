@@ -14,6 +14,7 @@ parts:
     - file: chapter1/Chapter_1_0.ipynb
     - file: chapter1/Chapter_1_1.ipynb
     - file: chapter1/Chapter_1_2.ipynb
+    - file: chapter1/Chapter_1_3.ipynb
   - caption: Chapter 5 - Pandas
     chapters:
     - file: chapter5/Chapter_5_0.ipynb
