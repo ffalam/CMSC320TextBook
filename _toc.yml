@@ -9,6 +9,11 @@ parts:
   - caption: About the Book
     chapters:
     - file: chapter0/Chapter_0.ipynb
+  - caption: Chapter 1 - Intro to Data Science
+    chapters:
+    - file: chapter1/Chapter_1_0.ipynb
+    - file: chapter1/Chapter_1_1.ipynb
+    - file: chapter1/Chapter_1_2.ipynb
   - caption: Chapter 5 - Pandas
     chapters:
     - file: chapter5/Chapter_5_0.ipynb
