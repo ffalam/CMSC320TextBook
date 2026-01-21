@@ -15,7 +15,12 @@ parts:
     - file: chapter1/Chapter_1_1.ipynb
     - file: chapter1/Chapter_1_2.ipynb
     - file: chapter1/Chapter_1_3.ipynb
-  - caption: Chapter 5 - Pandas
+  - caption: Chapter 2 - Experimental Design
+    chapters:
+    - file: chapter2/Chapter_2_0.ipynb
+    - file: chapter2/Chapter_2_1.ipynb
+    - file: chapter2/Chapter_2_2.ipynb
+  - caption: Chapter 4 - Pandas
     chapters:
     - file: chapter5/Chapter_5_0.ipynb
     - file: chapter5/Chapter_5_1.ipynb
@@ -24,7 +29,7 @@ parts:
     - file: chapter5/Chapter_5_4.ipynb
     - file: chapter5/Chapter_5_5.ipynb
     - file: chapter5/interactive_pandas
-  - caption: Chapter 6 - SQL
+  - caption: Chapter 5 - SQL
     chapters:
     - file: chapter6/Chapter_6_0.ipynb
     - file: chapter6/Chapter_6_1.ipynb
