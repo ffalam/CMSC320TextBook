@@ -33,6 +33,8 @@ parts:
     - file: chapter5/Chapter_5_2.ipynb
     - file: chapter5/Chapter_5_3.ipynb
     - file: chapter5/Chapter_5_4.ipynb
+    - file: chapter5/Chapter_5_5.ipynb
+    - file: chapter5/Chapter_5_6.ipynb
     - file: chapter5/interactive_pandas
   - caption: Chapter 5 - SQL
     chapters:
