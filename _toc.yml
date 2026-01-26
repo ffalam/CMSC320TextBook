@@ -15,11 +15,17 @@ parts:
     - file: chapter1/Chapter_1_1.ipynb
     - file: chapter1/Chapter_1_2.ipynb
     - file: chapter1/Chapter_1_3.ipynb
-  - caption: Chapter 2 - Experimental Design
+  - caption: Chapter 2 - Intro to Data Science
     chapters:
     - file: chapter2/Chapter_2_0.ipynb
     - file: chapter2/Chapter_2_1.ipynb
     - file: chapter2/Chapter_2_2.ipynb
+  - caption: Chapter 3 - Experimental Design
+    chapters:
+    - file: chapter3/Chapter_3_0.ipynb
+    - file: chapter3/Chapter_3_1.ipynb
+    - file: chapter3/Chapter_3_2.ipynb
+    - file: chapter3/Chapter_3_3.ipynb
   - caption: Chapter 4 - Pandas
     chapters:
     - file: chapter5/Chapter_5_0.ipynb
@@ -27,7 +33,6 @@ parts:
     - file: chapter5/Chapter_5_2.ipynb
     - file: chapter5/Chapter_5_3.ipynb
     - file: chapter5/Chapter_5_4.ipynb
-    - file: chapter5/Chapter_5_5.ipynb
     - file: chapter5/interactive_pandas
   - caption: Chapter 5 - SQL
     chapters:
