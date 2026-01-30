@@ -50,9 +50,20 @@ parts:
     - file: chapter5/Chapter_5_3.ipynb
     - file: chapter5/Chapter_5_4.ipynb
     - file: chapter5/interactive_sql
-  - caption: Chapter 7 - Probability and Distributions
+  - caption: Chapter 6 - Probability and Distributions
     chapters:
-    - file: chapter7/interactive_distribution
+    - file: chapter6/Chapter_6_0.ipynb
+    - file: chapter6/Chapter_6_1.ipynb
+    - file: chapter6/Chapter_6_2.ipynb
+    - file: chapter6/Chapter_6_3.ipynb
+    - file: chapter6/Chapter_6_4.ipynb
+    - file: chapter6/Chapter_6_5.ipynb
+    - file: chapter6/Chapter_6_6.ipynb
+    - file: chapter6/Chapter_6_7.ipynb
+    - file: chapter6/Chapter_6_8.ipynb
+    - file: chapter6/Chapter_6_9.ipynb
+    - file: chapter6/Chapter_6_10.ipynb
+    - file: chapter6/interactive_distribution
   - caption: Chapter 12 - Intro to ML 
     chapters:
     - file: chapter12/Chapter_12_0.ipynb
