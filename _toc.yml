@@ -64,6 +64,16 @@ parts:
     - file: chapter6/Chapter_6_8.ipynb
     - file: chapter6/Chapter_6_9.ipynb
     - file: chapter6/Chapter_6_10.ipynb
+  - caption: Chapter 7 - Descriptive Statistics
+    chapters:
+    - file: chapter7/Chapter_7_0.ipynb
+    - file: chapter7/Chapter_7_1.ipynb
+    - file: chapter7/Chapter_7_2.ipynb
+    - file: chapter7/Chapter_7_3.ipynb
+    - file: chapter7/Chapter_7_4.ipynb
+    - file: chapter7/Chapter_7_5.ipynb
+    - file: chapter7/Chapter_7_6.ipynb
+    - file: chapter7/Chapter_7_7.ipynb
   - caption: Chapter 12 - Intro to ML 
     chapters:
     - file: chapter12/Chapter_12_0.ipynb
