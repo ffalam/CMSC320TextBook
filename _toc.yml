@@ -81,6 +81,7 @@ parts:
     - file: chapter8/Chapter_8_2.ipynb
     - file: chapter8/Chapter_8_3.ipynb
     - file: chapter8/Chapter_8_4.ipynb
+    - file: chapter8/Chapter_8_5.ipynb
   - caption: Chapter 12 - Intro to ML 
     chapters:
     - file: chapter12/Chapter_12_0.ipynb
