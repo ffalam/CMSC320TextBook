@@ -82,6 +82,17 @@ parts:
     - file: chapter8/Chapter_8_3.ipynb
     - file: chapter8/Chapter_8_4.ipynb
     - file: chapter8/Chapter_8_5.ipynb
+  - caption: Chapter 9 - Exploratory Data Analysis
+    chapters:
+    - file: chapter9/Chapter_9_0.ipynb
+    - file: chapter9/Chapter_9_1.ipynb
+    - file: chapter9/Chapter_9_2.ipynb
+    - file: chapter9/Chapter_9_3.ipynb
+    - file: chapter9/Chapter_9_4.ipynb
+    - file: chapter9/Chapter_9_5.ipynb
+    - file: chapter9/Chapter_9_6.ipynb
+    - file: chapter9/Chapter_9_7.ipynb
+    - file: chapter9/Chapter_9_8.ipynb
   - caption: Chapter 12 - Intro to ML 
     chapters:
     - file: chapter12/Chapter_12_0.ipynb
