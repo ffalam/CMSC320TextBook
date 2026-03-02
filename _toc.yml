@@ -101,6 +101,8 @@ parts:
     - file: chapter12/Chapter_12_1.ipynb
     - file: chapter12/Chapter_12_2.ipynb
     - file: chapter12/Chapter_12_3.ipynb
+    - file: chapter12/Chapter_12_4.ipynb
+    - file: chapter12/Chapter_12_5.ipynb
     - file: chapter12/interactive_knn
   - caption: Chapter 14 - Decision Tree
     chapters:
