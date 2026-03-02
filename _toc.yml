@@ -95,15 +95,15 @@ parts:
     - file: chapter9/Chapter_9_6.ipynb
     - file: chapter9/Chapter_9_7.ipynb
     - file: chapter9/Chapter_9_8.ipynb
-  - caption: Chapter 12 - Intro to ML 
+  - caption: Chapter 10 - Intro to ML 
     chapters:
-    - file: chapter12/Chapter_12_0.ipynb
-    - file: chapter12/Chapter_12_1.ipynb
-    - file: chapter12/Chapter_12_2.ipynb
-    - file: chapter12/Chapter_12_3.ipynb
-    - file: chapter12/Chapter_12_4.ipynb
-    - file: chapter12/Chapter_12_5.ipynb
-    - file: chapter12/interactive_knn
+    - file: chapter10/Chapter_10_0.ipynb
+    - file: chapter10/Chapter_10_1.ipynb
+    - file: chapter10/Chapter_10_2.ipynb
+    - file: chapter10/Chapter_10_3.ipynb
+    - file: chapter10/Chapter_10_4.ipynb
+    - file: chapter10/Chapter_10_5.ipynb
+    - file: chapter10/interactive_knn
   - caption: Chapter 14 - Decision Tree
     chapters:
     - file: chapter14/Chapter_14_0.ipynb
