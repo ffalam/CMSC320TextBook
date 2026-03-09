@@ -16,7 +16,7 @@ parts:
     - file: chapter1/Chapter_1_2.ipynb
     - file: chapter1/Chapter_1_3.ipynb
     - file: chapter1/Chapter_1_4.ipynb
-  - caption: Chapter 2 - Intro to Data Science
+  - caption: Chapter 2 - Understand Data Types
     chapters:
     - file: chapter2/Chapter_2_0.ipynb
     - file: chapter2/Chapter_2_1.ipynb
