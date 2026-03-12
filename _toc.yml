@@ -104,6 +104,13 @@ parts:
     - file: chapter10/Chapter_10_4.ipynb
     - file: chapter10/Chapter_10_5.ipynb
     - file: chapter10/interactive_knn
+  - caption: Chapter 11 - Feature Engineering
+    chapters:
+    - file: chapter11/Chapter_11_0.ipynb
+    - file: chapter11/Chapter_11_1.ipynb
+    - file: chapter11/Chapter_11_2.ipynb
+    - file: chapter11/Chapter_11_3.ipynb
+    - file: chapter11/Chapter_11_4.ipynb
   - caption: Chapter 14 - Decision Tree
     chapters:
     - file: chapter14/Chapter_14_0.ipynb
