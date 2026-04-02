@@ -119,6 +119,15 @@ parts:
     - file: chapter14/Chapter_14_3.ipynb
     - file: chapter14/Chapter_14_4.ipynb
     - file: chapter14/interactive_entropy.md
+  - caption: Chapter 16 - Regression
+    chapters:
+    - file: chapter16/Chapter_16_0.ipynb
+    - file: chapter16/Chapter_16_1.ipynb
+    - file: chapter16/Chapter_16_2.ipynb
+    - file: chapter16/Chapter_16_3.ipynb
+    - file: chapter16/Chapter_16_4.ipynb
+    - file: chapter16/Chapter_16_5.ipynb
+    - file: chapter16/Chapter_16_6.ipynb
   - caption: Chapter 17 - Clustering and PCA
     chapters:
     - file: chapter17/interactive_k_means
