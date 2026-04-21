@@ -130,6 +130,13 @@ parts:
     - file: chapter16/Chapter_16_6.ipynb
   - caption: Chapter 17 - Clustering and PCA
     chapters:
+    - file: chapter17/Chapter_17_0.ipynb
+    - file: chapter17/Chapter_17_1.ipynb
+    - file: chapter17/Chapter_17_2.ipynb
+    - file: chapter17/Chapter_17_3.ipynb
+    - file: chapter17/Chapter_17_4.ipynb
+    - file: chapter17/Chapter_17_5.ipynb
+    - file: chapter17/Chapter_17_6.ipynb
     - file: chapter17/interactive_k_means
     - file: chapter17/interactive_pca
   - caption: Chapter 18. Neural Network
