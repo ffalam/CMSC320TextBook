@@ -161,5 +161,11 @@ parts:
     - file: chapter20/interactive_tf
   - caption: Chapter 21 - Graph Theory
     chapters:
+    - file: chapter21/Chapter_21_0.ipynb
+    - file: chapter21/Chapter_21_1.ipynb
+    - file: chapter21/Chapter_21_2.ipynb
+    - file: chapter21/Chapter_21_3.ipynb
+    - file: chapter21/Chapter_21_4.ipynb
+    - file: chapter21/Chapter_21_5.ipynb
     - file: chapter21/interactive_topology
 
