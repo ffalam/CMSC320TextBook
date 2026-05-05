@@ -168,4 +168,11 @@ parts:
     - file: chapter21/Chapter_21_4.ipynb
     - file: chapter21/Chapter_21_5.ipynb
     - file: chapter21/interactive_topology
+  - caption: Chapter 22 - Recommender Systems
+    chapters:
+    - file: chapter22/Chapter_22_0.ipynb
+    - file: chapter22/Chapter_22_1.ipynb
+    - file: chapter22/Chapter_22_2.ipynb
+    - file: chapter22/Chapter_22_3.ipynb
+    - file: chapter22/Chapter_22_4.ipynb
 
