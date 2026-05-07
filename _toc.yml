@@ -185,4 +185,6 @@ parts:
     - file: chapter22/Chapter_22_2.ipynb
     - file: chapter22/Chapter_22_3.ipynb
     - file: chapter22/Chapter_22_4.ipynb
+    - file: chapter22/Chapter_22_5.ipynb
+    - file: chapter22/Chapter_22_6.ipynb
 
