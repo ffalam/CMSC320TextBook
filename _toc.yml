@@ -161,7 +161,11 @@ parts:
     - file: chapter19/interactive_cnn
   - caption: Chapter 20 - NLPs
     chapters:
-    - file: chapter20/Chapter_19_Natural_Language_Processing.ipynb
+    - file: chapter20/Chapter_20_0.ipynb
+    - file: chapter20/Chapter_20_1.ipynb
+    - file: chapter20/Chapter_20_2.ipynb
+    - file: chapter20/Chapter_20_3.ipynb
+    - file: chapter20/Chapter_20_4.ipynb
     - file: chapter20/interactive_ngram
     - file: chapter20/interactive_text_preprocessing
     - file: chapter20/interactive_tf
