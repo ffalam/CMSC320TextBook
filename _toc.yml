@@ -151,7 +151,13 @@ parts:
     - file: chapter18/Chapter18_8
   - caption: Chapter 19 - Convolutional Neural Network
     chapters:
-    - file: chapter19/Chapter_19_Convolutional_Neural_Network.ipynb
+    - file: chapter19/Chapter_19_0.ipynb
+    - file: chapter19/Chapter_19_1.ipynb
+    - file: chapter19/Chapter_19_2.ipynb
+    - file: chapter19/Chapter_19_3.ipynb
+    - file: chapter19/Chapter_19_4.ipynb
+    - file: chapter19/Chapter_19_5.ipynb
+    - file: chapter19/Chapter_19_6.ipynb
     - file: chapter19/interactive_cnn
   - caption: Chapter 20 - NLPs
     chapters:
